@@ -1,3 +1,10 @@
+$ > git add NEWS.txt
+> git commit -m "test first commit"
+> git branch -M main
+> git remote add origin https://github.com/sangengzhuanqing/test.git
+> git push -u origin main
+
+
 +++++++++++
 Python News
 +++++++++++
